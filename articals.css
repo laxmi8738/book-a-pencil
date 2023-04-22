@@ -1,0 +1,89 @@
+
+#header_1{
+    height: 30px;
+    background-color: #00688b;
+    color: white;
+    font-size: 18px;
+    text-align: center;
+    line-height: 30px;
+    letter-spacing: 1px;
+    margin-top:30px;
+}
+.div_1{
+    height: 30px;
+    background-color: #800000;
+    color: white;
+    font-size: 15px;
+    text-align: center;
+    line-height: 30px;
+    letter-spacing: 1px;
+}
+.div_5{
+    height: 450px;
+    background-color: #ffe6ee;
+    margin-top: 3px;
+    border: 1px solid black;
+}
+.div_6{
+    height: 450px;
+    background-color: #f0fff0;
+    margin-top: 3px;
+    border: 1px solid black;
+}
+.div_7{
+    height: 450px;
+    background-color: #fffff0;
+    margin-top: 3px;
+    border: 1px solid black;
+}
+.div_8{
+    height: 350px;
+    background-color: #f2eef9;
+    margin-top: 3px;
+    border: 1px solid black;
+}
+.lead p{
+    font-size: 14px;
+    padding: 8px;
+    line-height: 24px;
+}
+.lead a{
+    color: blue;
+    font-size: 14px;
+    float: right;
+    margin-right: 10px;
+}
+.lead a:hover{
+    color: red;
+    text-decoration: none;
+}
+.lead{
+    padding: 5px;
+}
+.div_2{
+    height: 30px;
+    background-color: #006618;
+    color: white;
+    font-size: 15px;
+    text-align: center;
+    line-height: 30px;
+    letter-spacing: 1px;
+}
+.div_3{
+    height: 30px;
+    background-color: #ffdb58;
+    color: white;
+    font-size: 15px;
+    text-align: center;
+    line-height: 30px;
+    letter-spacing: 1px;
+}
+.div_4{
+    height: 30px;
+    background-color: #8565c4;
+    color: white;
+    font-size: 15px;
+    text-align: center;
+    line-height: 30px;
+    letter-spacing: 1px;
+}

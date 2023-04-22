@@ -1,0 +1,72 @@
+.qualification{
+    background-color: #f1f5f7;
+ }
+ .qualification-header-text{
+    font-size:25px ;
+    margin-left:6%;
+    font-weight:600;
+    color:black;
+}
+.qualification-box{
+    margin-left: 10%;
+    margin-right:10%;
+    background-color:#ffffff;
+}   
+.box-text{
+    font-size:9px;
+    color:#666;
+} 
+.qualification-morejobs{  
+    font-weight:700;
+    font-size: 10px;
+    padding-top:15px;
+    height:60px;
+    width:100%;
+    text-align:center;
+    background-color:rgb(30, 140, 230);
+    margin-top:10px; 
+    border-radius:5px 25px 25px 5px;
+    color:#fff;
+    transition: all 0.5s;        
+}
+.qualification-morejobs:hover{
+    color:blue;
+    background-color: #f1f5f7;
+    outline: 1px solid white;
+}
+.box-div:hover{
+   background-color: #f1f5f7;
+   outline: 1px solid white;
+   /* cursor: pointer; */
+}    
+.box-div{
+    font-weight:700;
+    font-size: 10px;
+    padding-top:10px;
+    height:60px;
+    text-align:center;
+    background-color:white;
+    margin-top:10px;
+}
+.qualification-job-a:hover{
+    text-decoration: none;
+}
+@media screen and (min-width: 320px) and (max-width:770px) { 
+    .qualification{
+       overflow-y: scroll!important;
+     }   
+    .qualification-header-text{
+        font-size:16px ;
+        font-weight:600;        
+    }
+    .box-text{
+        font-size:7px;
+    }
+    .box-div{
+        font-weight:600;
+        font-size: 8px;
+    }
+    .qualification-morejobs{  
+        font-size:10px;
+    }
+}

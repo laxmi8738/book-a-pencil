@@ -1,0 +1,72 @@
+.deginetion{
+    background-color: #f1f5f7;
+    margin-bottom: 20px;
+}
+.deginetion-header-text h4{
+    font-weight: 600;
+    padding: 20px 0 20px 0px;
+    margin: 0;
+    font-size: 25px;
+    color:rgb(0, 0, 0);
+}
+.deginetion-box{
+    margin-left: 10%;
+    margin-right:10%;
+    background-color:#ffffff;
+}   
+.box-text{
+    font-size:10px;
+    color:#666;
+} 
+.deginetion-morejobs{  
+    font-weight:700;
+    font-size: 11px;
+    padding-top:18px;
+    height:60px;
+    width:110px;
+    text-align:center;
+    background-color:rgb(30, 140, 230);
+    margin-top:10px; 
+    border-radius:5px 25px 25px 5px;
+    color:#fff;
+    transition: all 0.5s;        
+}
+.deginetion-morejobs:hover{
+    color:blue;
+    background-color: #f1f5f7;
+    outline: 1px solid white;
+}
+.box-div:hover{
+   background-color: #f1f5f7;
+   outline: 1px solid white;
+   cursor: pointer;
+}    
+.box-div{
+    font-weight:700;
+    font-size: 12px;
+    /* padding-top:18px; */
+    height:60px;
+    text-align:center;
+    background-color:white;
+    margin-top:10px;
+}
+.deginetion-job-a:hover{
+    text-decoration: none;
+}
+@media screen and (min-width: 320px) and (max-width:770px) {    
+.header-text{
+    font-size:16px ;
+    font-weight:600;        
+}
+.box-text{
+    font-size:7px;
+}
+.box-div{
+    font-weight:600;
+    font-size: 8px;
+}
+.deginetion-morejobs{  
+    font-size:9px;
+    width:110%;
+}
+}
